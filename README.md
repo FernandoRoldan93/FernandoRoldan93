@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Fernando Roldán!
+
+<!--![Cover_image](./cover_image.jpg "Cover image") -->
+<img class="center" alt="img" src="./cover_image.jpg" width="50%" height="auto" />
+
+
 
 <!--
 **FernandoRoldan93/FernandoRoldan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
