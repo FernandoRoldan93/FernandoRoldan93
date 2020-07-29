@@ -1,6 +1,25 @@
-### Hi there 👋 I'm Fernando Roldán!
+### Hi there 👋 
+### This is Fernando Roldán!
 
-<img align="left" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+
+Hello there! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="60%" height="auto" />
+
+
+
+
+- :computer: I’m currently working on [CityBike](https://github.com/FernandoRoldan93/CC-Project)
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 
 
