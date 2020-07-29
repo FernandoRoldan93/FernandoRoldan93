@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Fernando Roldán!
 
 <!--![Cover_image](./cover_image.jpg "Cover image") -->
-<img class="center" alt="img" src="./cover_image.jpg" width="50%" height="auto" />
+<img class="center" alt="img" src="./FernandoRoldan93/cover_image.jpg" width="50%" height="auto" />
 
 
 
