@@ -11,12 +11,21 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+- Finish my Computer Engineering Master Degree
+	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *Progress: 50%* :chart_with_upwards_trend:
+- :gb: Add an English documentation and restructure some projects I already did for my degree or Master.
+	- [MII_Spark](https://github.com/FernandoRoldan93/MII_Spark)
+	- [Fashion_Mnist Classification](https://github.com/ProyectosComunes-MII/SIGE-P2)
+	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
+	- [Neural networks](https://github.com/FernandoRoldan93/Inteligencia_Computacional)
+	- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
+	- And so on...
 - Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Business practices on [bi4 Group Spain](https://github.com/bi4group)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
+- Trying to be more exhaustive documenting my projects
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
@@ -38,7 +47,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
 <!--
 **FernandoRoldan93/FernandoRoldan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
