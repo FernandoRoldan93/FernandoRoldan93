@@ -13,7 +13,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree
 	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *Progress: 50%* :chart_with_upwards_trend:
-- :gb: Add an English documentation and restructure some projects I already did for my degree or Master.
+- :england: Add an English documentation and restructure some projects I already did for my degree or Master.
 	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
 	- [Fashion Mnist Classification](https://github.com/ProyectosComunes-MII/SIGE-P2)
 	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
