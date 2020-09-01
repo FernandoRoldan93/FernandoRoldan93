@@ -10,10 +10,11 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
+#### 🔭 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree
 	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *In Progress: 50%* :chart_with_upwards_trend:
-- Add an English documentation and restructure some projects I already did for my degree or Master.
+- 🌱 Add an English documentation and restructure some projects I already did for my degree and Master. 
+	- [TFG (Degree's final project)](https://github.com/FernandoRoldan93/TFG)
 	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
 	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
 	- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
