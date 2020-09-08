@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋
 ### This is Fernando Roldán!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
@@ -9,27 +9,25 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
+#### 🔭 Things I am currently working on:
 
-#### 🔭 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree
-	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *In Progress: 50%* :chart_with_upwards_trend:
-- 🌱 Add an English documentation and restructure some projects I already did for my degree and Master. 
+- 🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
 	- [TFG (Degree's final project)](https://github.com/FernandoRoldan93/TFG)
 	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
 	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
 	- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
 	- And so on...
-- Taking online courses about Data Science and Machine Learning 
+- Taking online courses about Data Science and Machine Learning
+- Develop a personal webpage to present myself and show some interesting projects.
 - Business practices on [bi4 Group Spain](https://github.com/bi4group)
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
 - Trying to be more exhaustive documenting my projects
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages and tools:
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
@@ -60,4 +58,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+- Finish my Computer Engineering Master Degree
+	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *In Progress: 50%* :chart_with_upwards_trend:
+
 -->
