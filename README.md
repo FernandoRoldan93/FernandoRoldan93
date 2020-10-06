@@ -10,7 +10,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
-- Finish my Master Degree :rocket:
+- :rocket: Finish my Master Degree
 - 🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
 	- [TFG (Degree's final thesis)](https://github.com/FernandoRoldan93/TFG)
 	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
