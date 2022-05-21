@@ -5,20 +5,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Fernando Roldán, a DevOps Engineer with interest on cloud technologies, Data science/engineering/analysis!   
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
-- :rocket: Finish my Master Degree
-- 🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
-	- [TFG (Degree's final thesis)](https://github.com/FernandoRoldan93/TFG)
-	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
-	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
-	- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
-	- And so on...
+- :rocket: Get the AWS Architect associate certification
 - Taking online courses about Data Science and Machine Learning
-- Adding posts about Machine Learning/Big Data/Software development to my personal [webpage](https://roldanzafra.com).
 
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
