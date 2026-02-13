@@ -12,7 +12,7 @@ Welcome to my Github page! I am Fernando, nice to have you here.
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
-- :rocket: Getting the CKS certification.
+- :rocket: Getting the CKS certification. 
 
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
