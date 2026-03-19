@@ -3,21 +3,21 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 <img width="10%" src="https://github.com/user-attachments/assets/740670f4-e660-4bb1-9b7d-95bcf1e86420">
+<img width="10%" alt="CKS Logo" src="https://github.com/user-attachments/assets/05e4cbb0-8bb2-466e-a168-7dad0a79b2bb" />
 
 Welcome to my Github page! I am Fernando, nice to have you here.  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
-- :rocket: Getting the CKS certification. 
+- :rocket: Learning about MLOps. 
 
 #### :muscle: Things I am challenging myself with:
-- Trying to be more exhaustive documenting my projects
-- Exercising 3 days a week
-- Improving my english level 
+- Exercising 4 days a week
+- Improving my english level
+- Find some time for finish painting my warhammer miniatures 
 
 #### :computer: Programming languages and tools:
 <p>
@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
 - Finish my Computer Engineering Master Degree
